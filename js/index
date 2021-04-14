@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<!-- Meta Tag -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name='copyright' content=''>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Title Tag  -->
+    <title>Home | Destex Solutions Ltd</title>
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="images/icon.jpg">
+	<!-- Web Font -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+	
+	<!-- StyleSheet -->
+	
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Magnific Popup -->
+    <link rel="stylesheet" href="css/magnific-popup.min.css">
+	<!-- Font Awesome -->
+    <link rel="stylesheet" href="css/font-awesome.css">
+	<!-- Fancybox -->
+	<link rel="stylesheet" href="css/jquery.fancybox.min.css">
+	<!-- Themify Icons -->
+    <link rel="stylesheet" href="css/themify-icons.css">
+	<!-- Nice Select CSS -->
+    <link rel="stylesheet" href="css/niceselect.css">
+	<!-- Animate CSS -->
+    <link rel="stylesheet" href="css/animate.css">
+	<!-- Flex Slider CSS -->
+    <link rel="stylesheet" href="css/flex-slider.min.css">
+	<!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/owl-carousel.css">
+	<!-- Slicknav -->
+    <link rel="stylesheet" href="css/slicknav.min.css">
+	
+	<!-- Eshop StyleSheet -->
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+	
+	
+</head>
+<body class="js">
+	
+	
+	<!-- Header -->
+	<header class="header shop">
+		<div class="middle-inner">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-2 col-md-2 col-12">
+						<!-- Logo -->
+						<div class="logo">
+							<a href="index.html"><img src="images/destex.jpg" alt="logo"></a>
+						</div>
+						<!--/ End Logo -->
+						<!-- Search Form -->
+						<div class="search-top">
+							<div class="top-search"><a href="#0"><i class="ti-search"></i></a></div>
+							<!-- Search Form -->
+							<div class="search-top">
+								<form class="search-form">
+									<input type="text" placeholder="Search here..." name="search">
+									<button value="search" type="submit"><i class="ti-search"></i></button>
+								</form>
+							</div>
+							<!--/ End Search Form -->
+						</div>
+						<!--/ End Search Form -->
+						<div class="mobile-nav"></div>
+					</div>
+					<div class="col-lg-8 col-md-7 col-12">
+						<div class="search-bar-top">
+							<div class="search-bar">
+								
+								<form>
+									<input name="search" placeholder="Search..." type="search">
+									<button class="btnn"><i class="ti-search"></i></button>
+								</form>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-3 col-12">
+						<div class="right-bar">
+							<!-- Search Form -->
+							<div class="sinlge-bar">
+								<a href="tel:+254715532119" class="single-icon"><i class="fa fa-phone" aria-hidden="true"></i> </a>
+							</div>
+							<div class="sinlge-bar">
+								<a href="mailto:info@destexsolutions.com" class="single-icon"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Header Inner -->
+		<div class="header-inner">
+			<div class="container">
+				<div class="cat-nav-head">
+					<div class="row">
+						<div class="col-lg-3">
+							<div class="all-category">
+								<h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
+		<ul class="main-category">
+			<li><a href="#">Sports <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+				<ul class="sub-category">
+					<li><a href="interlock.html">Interlock Tiles</a></li>
+					<li><a href="pvc.html">Sports PVC</a></li>
+					<li><a href="track.html">Running Track</a></li>
+					<li><a href="gymrubber.html">Gym Rubber</a></li>
+					<li><a href="sportsturf.html">Sports Turf</a></li>
+				</ul>
+			</li>
+				<li><a href="#">Residential & Commercial <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+			<ul class="sub-category">
+				<li><a href="lvt.html">LVT</a></li>
+				<li><a href="carpet.html">Carpet</a></li>
+				<li><a href="hdf.html">HDF Laminate</a></li>
+				<li><a href="artificialturf.html">Artificial Turf</a></li>
+				<li><a href="wpc.html">WPC</a></li>
+				<li><a href="spc.html">SPC</a></li>
+				<li><a href="artificialgrass.html">Artificial Grass</a></li>
+			
+			</ul>
+				</li>
+				<li><a href="hdf.html">HDF Laminate</a></li>
+				<li><a href="artificialgrass.html">Artificial Grass</a></li>
+				<li><a href="artificialturf.html">Artificial Turf</a></li>
+				<li><a href="spc.html">SPC</a></li>
+				<li><a href="wpc.html">WPC</a></li>
+				<li><a href="carpet.html">Carpet</a></li>
+				<li><a href="gymrubber.html">Gym Rubber</a></li>
+									
+			</ul>
+							</div>
+						</div>
+						<div class="col-lg-9 col-12">
+							<div class="menu-area">
+								<!-- Main Menu -->
+								<nav class="navbar navbar-expand-lg">
+									<div class="navbar-collapse">	
+										<div class="nav-inner">	
+			<ul class="nav main-menu menu navbar-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">Residential & Commercial<i class="ti-angle-down"></i></a>
+					<ul class="dropdown">
+						<li><a href="lvt.html">LVT</a></li>
+						<li><a href="carpet.html">Carpet</a></li>
+						<li><a href="hdf.html">HDF Laminate</a></li>
+						<li><a href="artificialturf.html">Artficial Turf</a></li>
+						<li><a href="wpc.html">WPC</a></li>
+						<li><a href="spc.html">SPC</a></li>
+						<li><a href="artificialgrass.html">Artificial Grass</a></li>
+					</ul>
+					</li>
+
+	<li><a href="#">Sports<i class="ti-angle-down"></i></a>
+			<ul class="dropdown">
+				<li><a href="interlock.html">Interlock Tiles</a></li>
+				<li><a href="pvc.html">Sports PVC</a></li>
+				<li><a href="track.html">Running Track</a></li>
+				<li><a href="gymrubber.html">Gym Rubber</a></li>
+				<li><a href="sportsturf.html">Sports Turf</a></li>
+			</ul>
+	</li>
+
+				<li><a href="portfolio.html">Portfolio</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact Us</a></li>
+						</ul>
+										</div>
+									</div>
+								</nav>
+								<!--/ End Main Menu -->	
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ End Header Inner -->
+	</header>
+	<!--/ End Header -->
+	
+	<!-- Slider Area -->
+	<section class="hero-slider">
+		<!-- Single Slider -->
+		<div class="single-slider">
+			<div class="container">
+				<div class="row no-gutters">
+					<div class="col-lg-9 offset-lg-3 col-12"style="background-image: url(slide1.jpeg);background-repeat: no-repeat;" >
+						<div class="text-inner">
+							<div class="row">
+								<div class="col-lg-7 col-12">
+									<div class="hero-text" >
+										<h1><span>----</span>Destex Solutions</h1>
+										 <br> <br> 
+										<br><br><br>
+										<br><br><br>
+										<div class="button">
+											<a href="contact.html" class="btn">Contact Us</a>
+										</div><br>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ End Single Slider -->
+	</section>
+	<section class="shop-home-list section">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+				<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/c.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/b.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/a.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+				<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/d.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/e.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/f.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+				<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/g.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/h.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/i.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/sportsturf.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/lvt.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/carpet.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/gymrubber.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/hdf.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/pvc.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					
+					<!-- Start Single List  -->
+				<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/floor.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/floor2.jpg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+					<!-- Start Single List  -->
+					<div class="single-list">
+						<div class="row">
+							<div class="col-lg-12 col-md-12 col-12">
+								<div class="list-image overlay">
+									<img src="images/resident.jpeg" alt="#">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Single List  -->
+				</div>
+				
+			</div>
+
+	<div class="product-area most-popular section">
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-12">
+                    <div class="owl-carousel popular-slider">
+						<div class="single-product">
+							<div class="product-img">
+								<a href="product-details.html">
+									<img class="default-img" src="images/sportsturf.jpeg" alt="#">
+									<img class="hover-img" src="images/sportsturf.jpeg" alt="#">
+								</a>
+								<div class="button-head">
+								</div>
+							</div>
+							<div class="product-content">
+								<h3><a href="product-details.html">Sports Turf</a></h3>
+							</div>
+						</div>
+						<!-- End Single Product -->
+						<!-- Start Single Product -->
+						<div class="single-product">
+							<div class="product-img">
+								<a href="product-details.html">
+									<img class="default-img" src="images/resident.jpeg" alt="#">
+									<img class="hover-img" src="images/resident.jpeg" alt="#">
+								</a>
+								<div class="button-head">
+								</div>
+							</div>
+							<div class="product-content">
+								<h3><a href="product-details.html">Sports Turf</a></h3>
+							</div>
+						</div>
+						<!-- End Single Product -->
+						<!-- Start Single Product -->
+						<div class="single-product">
+							<div class="product-img">
+								<a href="product-details.html">
+									<img class="default-img" src="images/hdf.jpeg" alt="#">
+									<img class="hover-img" src="images/hdf.jpeg" alt="#">
+								</a>
+								<div class="button-head">
+								</div>
+							</div>
+							<div class="product-content">
+								<h3><a href="product-details.html">Sports Turf</a></h3>
+							</div>
+						</div>
+						<!-- End Single Product -->
+						<!-- Start Single Product -->
+						<div class="single-product">
+							<div class="product-img">
+								<a href="product-details.html">
+									<img class="default-img" src="images/gymrubber.jpeg" alt="#">
+									<img class="hover-img" src="images/gymrubber.jpeg" alt="#">
+								</a>
+								<div class="button-head">
+								</div>
+							</div>
+							<div class="product-content">
+								<h3><a href="product-details.html">Sports Turf</a></h3>
+							</div>
+						</div>
+						<!-- End Single Product -->
+						
+                    </div>
+                </div>
+            </div>
+        </div>
+	<section class="shop-blog section">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="section-title">
+						<h2>Brands</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-12">
+					<!-- Start Single Blog  -->
+					<div class="shop-single-blog">
+						<img src="images/sportsturf.jpeg" alt="#">
+						<div class="content">
+							<a href="#" class="more-btn">Brand Name</a>
+						</div>
+					</div>
+					<!-- End Single Blog  -->
+				</div>
+				<div class="col-lg-3 col-md-6 col-12">
+					<!-- Start Single Blog  -->
+					<div class="shop-single-blog">
+						<img src="images/sportsturf.jpeg" alt="#">
+						<div class="content">
+							<a href="#" class="more-btn">Brand Name</a>
+						</div>
+					</div>
+					<!-- End Single Blog  -->
+				</div>
+				<div class="col-lg-3 col-md-6 col-12">
+					<!-- Start Single Blog  -->
+					<div class="shop-single-blog">
+						<img src="images/sportsturf.jpeg" alt="#">
+						<div class="content">
+							<a href="#" class="more-btn">Brand Name</a>
+						</div>
+					</div>
+					<!-- End Single Blog  -->
+				</div>
+				
+				<div class="col-lg-3 col-md-6 col-12">
+					<!-- Start Single Blog  -->
+					<div class="shop-single-blog">
+						<img src="images/sportsturf.jpeg" alt="#">
+						<div class="content">
+							<a href="#" class="more-btn">Brand Name</a>
+						</div>
+					</div>
+					<!-- End Single Blog  -->
+				</div>
+			</div>
+		</div>
+	</section>
+    </div>
+		</div>
+	</section>
+	
+	
+	<!-- Start Footer Area -->
+	<footer class="footer">
+		<!-- Footer Top -->
+		<div class="footer-top section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 col-md-6 col-12">
+						<!-- Single Widget -->
+						<div class="single-footer about">
+							<div class="logo">
+								<h2 class="text">Destex Solutions</h2>
+							</div>
+							<p class="text">We are a relatively young company that deals with supply and installation of contemporary flooring materials at the residential and commercial level. All our products are of exceptional quality, affordable and eco-friendly.</p>
+							<p class="call">Got A Question? Call Us<span><a href="tel:+254715532119">+254 715 532 119</a></span></p>
+						</div>
+						<!-- End Single Widget -->
+					</div>
+					<div class="col-lg-2 col-md-6 col-12">
+						<!-- Single Widget -->
+						<div class="single-footer links">
+							<h4>Residential</h4>
+							<ul>
+								<li><a href="lvt.html">LVT</a></li>
+								<li><a href="carpet.html">Carpet</a></li>
+								<li><a href="hdf.html">HDF Laminate</a></li>
+								<li><a href="artificialturf.html">Artificial Turf</a></li>
+								<li><a href="wpc.html">WPC</a></li>	
+							</ul>
+						</div>
+						<!-- End Single Widget -->
+					</div>
+					<div class="col-lg-2 col-md-6 col-12">
+						<!-- Single Widget -->
+						<div class="single-footer links">
+							<h4>Sports</h4>
+							<ul>
+								<li><a href="interlock.html">Interlock Tiles</a></li>
+								<li><a href="pvc.html">Sports PVC</a></li>
+								<li><a href="track.html">Running Track</a></li>
+								<li><a href="gymrubber.html">Gym Rubber</a></li>
+								<li><a href="sportsturf">Sports Turf</a></li>
+							</ul>
+						</div>
+						<!-- End Single Widget -->
+					</div>
+					<div class="col-lg-3 col-md-6 col-12">
+						<!-- Single Widget -->
+						<div class="single-footer social">
+							<h4>Get In Touch</h4>
+							<!-- Single Widget -->
+							<div class="contact">
+								<ul>
+									<li>New Horizons Industrial park</li>
+									<li>Ruiru, Kiambu</li>
+									<li>info@destexsolutions.com</li>
+									<li>+254 715 532 119</li>
+								</ul>
+							</div>
+							<!-- End Single Widget -->
+							<!--<ul>
+								<li><a href="#"><i class="ti-facebook"></i></a></li>
+								<li><a href="#"><i class="ti-twitter"></i></a></li>
+								<li><a href="#"><i class="ti-flickr"></i></a></li>
+								<li><a href="#"><i class="ti-instagram"></i></a></li>
+							</ul>-->
+						</div>
+						<!-- End Single Widget -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Footer Top -->
+		<div class="copyright">
+			<div class="container">
+				<div class="inner">
+					<div class="row">
+						<div class="col-lg-6 col-12">
+							<div class="left">
+								<p>© Destex Solutions 2020.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- /End Footer Area -->
+ 
+	<!-- Jquery -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-3.0.0.js"></script>
+	<script src="js/jquery-ui.min.js"></script>
+	<!-- Popper JS -->
+	<script src="js/popper.min.js"></script>
+	<!-- Bootstrap JS -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Color JS -->
+	<script src="js/colors.js"></script>
+	<!-- Slicknav JS -->
+	<script src="js/slicknav.min.js"></script>
+	<!-- Owl Carousel JS -->
+	<script src="js/owl-carousel.js"></script>
+	<!-- Magnific Popup JS -->
+	<script src="js/magnific-popup.js"></script>
+	<!-- Waypoints JS -->
+	<script src="js/waypoints.min.js"></script>
+	<!-- Countdown JS -->
+	<script src="js/finalcountdown.min.js"></script>
+	<!-- Nice Select JS -->
+	<script src="js/nicesellect.js"></script>
+	<!-- Flex Slider JS -->
+	<script src="js/flex-slider.js"></script>
+	<!-- ScrollUp JS -->
+	<script src="js/scrollup.js"></script>
+	<!-- Onepage Nav JS -->
+	<script src="js/onepage-nav.min.js"></script>
+	<!-- Easing JS -->
+	<script src="js/easing.js"></script>
+	<!-- Active JS -->
+	<script src="js/active.js"></script>
+</body>
+</html>
