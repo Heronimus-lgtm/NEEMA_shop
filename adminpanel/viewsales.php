@@ -55,7 +55,7 @@ a{
 </head>
 <body>
   <h2>PLACED ORDERS</h2>
-  <table bgcolor="#fff" width="800px">
+  <table bgcolor="#fff" width="850px">
   <tr bgcolor="purple"><th>Customer Name</th><th>Phone</th><th>ID Number</th><th>Product</th><th>email</th><th>amount paid</th><th>Mpesa Code</th><th>contact customer</th><th>Decline</th></tr>
   
 

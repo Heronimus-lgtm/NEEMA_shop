@@ -289,7 +289,7 @@ if (mysqli_num_rows($result) > 0) {
 <section class="product" >
       <div class="product-card">
             <div class="product-image">
-               <a href="testviewitem.php?productid=<?php echo $row['productid']?>">
+               <a href="#>">
                    <?php  echo "<img src='adminpanel/uploads/".$row['image']."' >"; ?>
              </div>
              <div class="product-info">
@@ -471,8 +471,8 @@ mysqli_close($conn);
 						<div class="single-footer links">
 							<h4>CHECK OUT ON</h4>
 							<ul>
-								<li><a href="items2.php">OUR PRODUCTS</a></li>
-								<li><a href="regions1.html">REGIONS COVERED</a></li>
+								<li><a href="products/items2.php">OUR PRODUCTS</a></li>
+								<li><a href="login.php" onclick="return confirm_alert(this);">REGIONS COVERED</a></li>
 								<li><a href="mails1.php">CONTACT US</a></li>
 								<li>IF YOU LIKE IT, CROWN IT</li>
 								</ul>

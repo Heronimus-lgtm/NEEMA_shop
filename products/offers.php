@@ -120,16 +120,8 @@
                   <div class="navbar-collapse"> 
                     <div class="nav-inner"> 
       <ul class="nav main-menu menu navbar-nav">
-        <li><a href="../index.php">Home</a></li>
-        <li><a href="#">SELECT PRODUCT CATEGORY<i class="ti-angle-down"></i></a>
-          <ul class="dropdown">
-        <li><a href="groceries.php">GROCERIES</a></li>
-        <li><a href="clothings.php">CLOTHINGS</a></li>
-        <li><a href="foods.php">FOOD STUFFS</a></li>
-        <li><a href="stationary.php">STATIONARY</a></li>
-        <li><a href="funitures.php">FUNITURE</a></li>
-        </ul>
-          </li>
+        <li><li><a href="../index.php"><img src="../icons/home.png" height="20" width="20">Home</a></li></li>
+        
                
                             </ul>
                     </div>

@@ -227,15 +227,14 @@
 						<div class="single-footer links">
 							<h4>CHECK OUT ON</h4>
 							<ul>
-								<li><a href="productlist.html">OUR PRODUCTS</a></li>
-								<li><a href="supermarkets.html">DELIVERY</a></li>
-								<li><a href="ass.html">AFTER SALE SERVICES</a></li>
-								<li><a href="li.html">LEADING ITEMS</a></li>
+								<li><a href="product/items.php">OUR PRODUCTS</a></li>
+								<li><a href="regions.html">REGIONS COVERED</a></li>
+								<li><a href="mail.php">CONTACT US</a></li>
+								<li>IF YOU LIKE IT, CROWN IT</li>
 								</ul>
 						</div>
 						<!-- End Single Widget -->
 					</div>
-					
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Single Widget -->
 						<div class="single-footer social">
@@ -253,27 +252,27 @@
 			</div>
 						<!-- End Single Widget -->
 					</div>
+					<div class="col-lg-2 col-md-6 col-12">
+						<!-- Single Widget -->
+						<div class="single-footer links">
+							<h4>Social platforms</h4>
+							<ul>
+								<li><a href="facebook.net"><img src="icons/fbook.png" width="30" height="30"></a></li>
+								<li><a href="twitter.net"><img src="icons/twitter.png" width="30" height="30"></a></li>
+								<li><a href="youtube.net"><img src="icons/yt.jpg" width="30" height="30"></a></li>
+								<li><a href=""><img src="icons/wtp.jpg" width="30" height="30"></a></li>
+							</ul>
+						</div>
+						<!-- End Single Widget -->
+					</div>
+
 				</div>
 			</div>
 		</div>
-		<!-- End Footer Top -->
-		<div class="copyright">
-			<div class="container">
-				<div class="inner">
-					<div class="row">
-						<div class="col-lg-6 col-12">
-							<div class="left">
-								<p>©KAKAMEGAshoppers hub.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+		
 		</div>
 	</footer>
 	<!-- /End Footer Area -->
-	
-	
  
 	<!-- Jquery -->
     <script src="js/jquery.min.js"></script>
@@ -291,18 +290,12 @@
 	<script src="js/owl-carousel.js"></script>
 	<!-- Magnific Popup JS -->
 	<script src="js/magnific-popup.js"></script>
-	<!-- Fancybox JS -->
-	<script src="js/facnybox.min.js"></script>
 	<!-- Waypoints JS -->
 	<script src="js/waypoints.min.js"></script>
-	<!-- Jquery Counterup JS -->
-	<script src="js/jquery-counterup.min.js"></script>
 	<!-- Countdown JS -->
 	<script src="js/finalcountdown.min.js"></script>
 	<!-- Nice Select JS -->
 	<script src="js/nicesellect.js"></script>
-	<!-- Ytplayer JS -->
-	<script src="js/ytplayer.min.js"></script>
 	<!-- Flex Slider JS -->
 	<script src="js/flex-slider.js"></script>
 	<!-- ScrollUp JS -->
@@ -311,10 +304,6 @@
 	<script src="js/onepage-nav.min.js"></script>
 	<!-- Easing JS -->
 	<script src="js/easing.js"></script>
-	<!-- Google Map JS -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnhgNBg6jrSuqhTeKKEFDWI0_5fZLx0vM"></script>	
-	<script src="js/gmap.min.js"></script>
-	<script src="js/map-script.js"></script>
 	<!-- Active JS -->
 	<script src="js/active.js"></script>
 </body>

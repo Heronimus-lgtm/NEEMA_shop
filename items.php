@@ -57,7 +57,7 @@
           <div class="col-lg-2 col-md-2 col-12">
             <!-- Logo -->
             <div class="logo">
-              <a href="index.html"><img src="logo.png" alt="logo" height="70" width="70"></a>
+              <a href="index.php"><img src="logo.png" alt="logo" height="70" width="70"></a>
             </div>
             <!--/ End Logo -->
             <!-- Search Form -->
@@ -121,7 +121,7 @@
                   <div class="navbar-collapse"> 
                     <div class="nav-inner"> 
       <ul class="nav main-menu menu navbar-nav">
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="#">SELECT PRODUCT CATEGORY<i class="ti-angle-down"></i></a>
           <ul class="dropdown">
             <li><a href="products2/electronics.php">ELECTRONICS</a></li>

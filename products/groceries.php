@@ -120,7 +120,7 @@
                   <div class="navbar-collapse"> 
                     <div class="nav-inner"> 
       <ul class="nav main-menu menu navbar-nav">
-        <li><a href="../home.php">home.php</a></li>
+        <li><a href="../home.php">home</a></li>
         <li><a href="#">SELECT PRODUCT CATEGORY<i class="ti-angle-down"></i></a>
           <ul class="dropdown">
             <li><a href="electronics.php">ELECTRONICS</a></li>
